@@ -1,3 +1,5 @@
+![XDP~COURSE!~machine-learning](https://github.com/ShubhranshuArya/Supervised-Machine-Learning/assets/77967955/275d71c7-ab4f-4e72-9e07-53a0fda4752c)
+
 # Supervised Machine Learning
 
 Welcome to the meticulously curated repository housing an extensive array of resources and in-depth notes from the inaugural course, [Supervised Machine Learning: Regression & Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction#outcomes) part of the esteemed [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) offered by DeepLearning.Ai in collaboration with Stanford University. 
