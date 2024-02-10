@@ -40,5 +40,6 @@ This repository serves as a professional reservoir, offering a comprehensive und
       - [Overfitting in Logistic regression](https://github.com/ShubhranshuArya/Supervised-Machine-Learning/blob/main/Week%203/Labs/Lab-08_Overfitting.ipynb)
       - [Regularization in Logistic regression](https://github.com/ShubhranshuArya/Supervised-Machine-Learning/blob/main/Week%203/Labs/Lab-09_Regularization.ipynb)
 
-### [Certificate of Completion](https://coursera.org/share/677b477121b4ba9bc248b08f295613e9)
+### [Certificate of Completion](https://github.com/ShubhranshuArya/Supervised-Machine-Learning/files/14229569/M1-C1-Certificate.pdf)
+
   
